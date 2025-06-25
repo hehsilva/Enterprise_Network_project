@@ -123,11 +123,7 @@ Below is the summary of configuration tasks performed in this project:
 | VLAN Configuration on Switch        | ![vlan](https://github.com/hehsilva/Enterprise_Network_project/blob/3e0c196408d199a62c13bc4a44ca45fba8ef1035/Images/vlan.jpg) |
 | DHCP Server Settings                | ![dhcp](https://github.com/hehsilva/Enterprise_Network_project/blob/ffa9c6b0bc78207496c171c15e9b873f43b824da/Images/dhcp.jpg) |
 | VPN Tunnel Established              | ![vpn](https://github.com/hehsilva/Enterprise_Network_project/blob/4169ee9a266ad5abf2eb918f695939ce01778b72/Images/vpn.jpg) |
-| OSPF Routing Table                  | ![ospf](screenshots/ospf_routing.png) |
-| PAT/NAT Configuration               | ![nat](screenshots/pat_config.png) |
-| ACL Applied on Router               | ![acl](screenshots/acl_config.png) |
-
-
+| OSPF Routing Table                  | ![ospf](https://github.com/hehsilva/Enterprise_Network_project/blob/2da75fb54bf045d1324e5721334c5e99d96f6d27/Images/ospf%20routing%20table.jpg) |
 
 ---
 
