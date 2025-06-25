@@ -19,7 +19,7 @@ This project presents a **comprehensive enterprise network design and implementa
 
 
 
-![Network Topology Screenshot](screenshots/topology.png)
+![Network Topology Screenshot](https://github.com/hehsilva/Enterprise_Network_project/blob/e1148331dc16441f5b4c107feb16ecc9c59f5492/Network%20Topology.jpg)
 
 ---
 
