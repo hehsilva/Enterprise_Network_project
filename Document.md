@@ -120,8 +120,8 @@ Below is the summary of configuration tasks performed in this project:
 | Description                         | Screenshot |
 |-------------------------------------|------------|
 | Network Topology Overview           | ![topo](https://github.com/hehsilva/Enterprise_Network_project/blob/e1148331dc16441f5b4c107feb16ecc9c59f5492/Network%20Topology.jpg) |
-| VLAN Configuration on Switch        | ![vlan](screenshots/vlan_config.png) |
-| DHCP Server Settings                | ![dhcp](screenshots/dhcp_config.png) |
+| VLAN Configuration on Switch        | ![vlan]() |
+| DHCP Server Settings                | ![dhcp](https://github.com/hehsilva/Enterprise_Network_project/blob/ffa9c6b0bc78207496c171c15e9b873f43b824da/Images/dhcp.jpg) |
 | VPN Tunnel Established              | ![vpn](screenshots/vpn_status.png) |
 | OSPF Routing Table                  | ![ospf](screenshots/ospf_routing.png) |
 | PAT/NAT Configuration               | ![nat](screenshots/pat_config.png) |
