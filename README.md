@@ -1,0 +1,2 @@
+# Enterprise_Network_project
+🏥 This repository contains the complete network design and implementation project for a Hospital, built using Cisco Packet Tracer. It includes VLAN configurations, OSPF routing, DHCP, DNS, PAT, ACLs, and a secure site-to-site IPSec VPN between the headquarters and branch hospital. The solution follows a hierarchical model with a strong focus on security, redundancy, and scalability.
